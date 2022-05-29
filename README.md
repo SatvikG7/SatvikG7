@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satvikg7&label=Profile%20views&color=0e75b6&style=flat" alt="satvikg7" /> </p>
 
-- 🌱 I’m currently learning **C++ SDL and ML**
+- 🌱 I’m currently learning WEB3, Machine Learning, C++ (SDL2) and GoLang**
 
 - 🤝 I’m looking for help with [toact](https://github.com/SatvikG7/toact)
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Nodejs**
 
-- 📫 How to reach me **satvik.g.code@gmail.com**
+- 📫 Reach me **satvik.g.code@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
