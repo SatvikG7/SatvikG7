@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning Machine Learning, C++ (SDL2), GoLang and WEB3(sometimes ;))
 
-- 🤝 I’m looking for help with [yals-ml](https://github.com/SatvikG7/yals-ml)
-
 - 👨‍💻 All of my projects are available at | [https://github.com/SatvikG7](https://github.com/SatvikG7) | [https://gitlab.com/SatvikG7](https://gitlab.com/SatvikG7) |
 
 - 📫 Reach me
