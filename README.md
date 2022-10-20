@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satvikg7&label=Profile%20views&color=0e75b6&style=flat" alt="satvikg7" /> </p>
 
-- 🌱 I’m currently learning Machine Learning, C++ (SDL2), GoLang and WEB3(sometimes ;))
+- 🌱 I’m currently learning Machine Learning, C++ (SDL2), GoLang and WEB3(sometimes)
 
 - 👨‍💻 All of my projects are available at | [https://github.com/SatvikG7](https://github.com/SatvikG7) | [https://gitlab.com/SatvikG7](https://gitlab.com/SatvikG7) |
 
