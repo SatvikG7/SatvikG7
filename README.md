@@ -10,7 +10,7 @@
 - 📫 Reach me
   - Mail: **satvik.g.code+gitpro@gmail.com**
   - Keybase: https://keybase.io/satvikg7
-  - discord: Satvik#3180
+  - Discord: Satvik#3180
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
