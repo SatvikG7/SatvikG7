@@ -10,7 +10,7 @@
 - 📫 Reach me
   - Mail: **satvikg7@pm.me**
   - Keybase: https://keybase.io/satvikg7
-  - Discord: Satvik#3180
+  - Discord: SatvikG7
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
